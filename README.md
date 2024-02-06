@@ -15,14 +15,14 @@ In short: Website to check whether buying or renting a home is more profitable.
   </li>
 </ul>
 
-<b>2. Registration</b>
+<b>2.</b> Registration
 <ul>
   <li>
     In order for the user's to save their calculatations they would need to register. The calculator is still available for anonymous users but they can't save and track their calculations.
   </li>
 </ul>
 
-<b>3. Dashboard for saved calculations</b>
+<b>3.</b> Dashboard for saved calculations
 <ul>
   <li>
     Saved calculations can be checked upon further down the line, this in order to enable users to modify based on change of monthly costs for instance.
