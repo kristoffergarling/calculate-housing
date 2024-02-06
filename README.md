@@ -1,4 +1,4 @@
-# Calculate housing - Make the best financial decision
+# 🏠 Calculate housing - Make the best financial decision
 In short: Website to check whether buying or renting a home is more profitable.
 
 ## Requirements
