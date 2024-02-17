@@ -7,7 +7,7 @@ In short: Website to check whether buying or renting a home is more profitable.
   <li>
     The house price
   </li>
-  <li>
+  <li> 
     Down payment (optional since the logic will provide you with the best suited down payment)
   </li>
   <li>
