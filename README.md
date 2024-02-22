@@ -25,7 +25,7 @@ In short: Website to check whether buying or renting a home is more profitable.
 <b>3.</b> Dashboard for saved calculations:
 <ul>
   <li>
-    Saved calculations can be checked upon further down the line, this in order to enable users to modify based on change of monthly costs for instance.
+    Saved calculations can be checked upon further down the line, this in order to enable users to modify based on change of monthly costs for instance. Another use case is to track different housing options with these calculations, providing a good overview of potential residents a user is interested in.
   </li>
 </ul>
 
@@ -33,3 +33,4 @@ In short: Website to check whether buying or renting a home is more profitable.
 Fullstack app. Tech stack is currently being considered...
 
 Frontend suggestion: Svelte or Vue.
+Backend suggestion: C# .NET (Maybe doing this fullstack with Blazor)?
