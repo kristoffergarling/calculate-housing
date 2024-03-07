@@ -1,7 +1,7 @@
 # 🏠 Calculate housing - Make the best financial decision
 In short: Website to check whether buying or renting a home is more profitable.
 <br />
-General goal: Get a solid understanding of .NET / Node.js for backend.
+General goal: Get a solid understanding of Node.js for backend.
 
 ## Requirements
 <b>1.</b> There is a calculator (which is the main use-case) that calculates whether or not it's worth for you to buy for rent a home based on specific props. It will be swedish based with SEK as a start. The parameters will be:
